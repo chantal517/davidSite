@@ -3800,10 +3800,10 @@
 
 	body.is-mobile.landing #banner,
 	body.is-mobile.landing .wrapper.style4 {
-		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("../../images/san-diego.jpg");
-		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("../../images/san-diego.jpg");
-		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("../../images/san-diego.jpg");
-		background-image: linear-gradient(top, rgba(0,0,0,0.8), rgba(0,0,0,0.8)), url("../../images/san-diego.jpg");
+		background-image: -moz-linear-gradient(top, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("../../images/san-diego.jpg");
+		background-image: -webkit-linear-gradient(top, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("../../images/san-diego.jpg");
+		background-image: -ms-linear-gradient(top, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("../../images/san-diego.jpg");
+		background-image: linear-gradient(top, rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url("../../images/san-diego.jpg");
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: cover;
